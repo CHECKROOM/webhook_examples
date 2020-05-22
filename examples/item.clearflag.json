@@ -1,0 +1,29 @@
+{
+    "data": {
+        "_id": "BWzzvKvcc7W5fq6f3SpStD",
+        "name": "Thing 1",
+        "brand": "Apple",
+        "model": "MacBook Air 13\" 2015",
+        "fields": {
+            "Color": "Silver"
+        },
+        "flag": null,
+        "last_clear_flag_date_timestamp": 1504772899,
+        "last_clear_flag_message": "Clean as a whistle!",
+        "location": {
+            "_id": "Phu7AWtch4wUSUEqWpyGBV",
+            "name": "New York HQ"
+        },
+        "barcode_or_qrcode": "5dc60410",
+        "qrcode_text": "5dc60410",
+        "qrcode_url": "https://app.cheqroom.com/api/latest/qrcode?code=5dc60410",
+        "barcode_text": "1234567890",
+        "barcode_url": "https://app.cheqroom.com/api/latest/barcode?code=1234567890",
+        "status": "available"
+    },
+    "id": "BWzzvKvcc7W5fq6f3SpStD",
+    "kind": "item",
+    "name": "When an item flag was cleared",
+    "time": 1504772899,
+    "topic": "item.clearflag"
+}

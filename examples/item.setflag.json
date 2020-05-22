@@ -1,0 +1,30 @@
+{
+    "data": {
+        "_id": "BWzzvKvcc7W5fq6f3SpStD",
+        "name": "Thing 1",
+        "brand": "Apple",
+        "model": "MacBook Air 13\" 2015",
+        "fields": {
+            "Color": "Silver"
+        },
+        "flag": "Needs Cleaning",
+        "flag_id": "abcdefgh",
+        "last_set_flag_date_timestamp": 1504772899,
+        "last_set_flag_message": "This one is really dirty",
+        "location": {
+            "_id": "Phu7AWtch4wUSUEqWpyGBV",
+            "name": "New York HQ"
+        },
+        "barcode_or_qrcode": "5dc60410",
+        "qrcode_text": "5dc60410",
+        "qrcode_url": "https://app.cheqroom.com/api/latest/qrcode?code=5dc60410",
+        "barcode_url": "https://app.cheqroom.com/api/latest/barcode?code=1234567890",
+        "barcode_text": "1234567890",
+        "status": "expired"
+    },
+    "id": "BWzzvKvcc7W5fq6f3SpStD",
+    "kind": "item",
+    "name": "When an item gets flagged",
+    "time": 1504772899,
+    "topic": "item.setflag"
+}
