@@ -1,0 +1,30 @@
+{
+    "data": {
+        "_id": "BWzzvKvcc7W5fq6f3SpStD",
+        "name": "Thing 1",
+        "brand": "Apple",
+        "model": "MacBook Air 13\" 2015",
+        "fields": {
+            "Color": "Silver"
+        },
+        "flag": "",
+        "location": {
+            "_id": "Phu7AWtch4wUSUEqWpyGBV",
+            "name": "New York HQ"
+        },
+        "category": {
+            "_id": "cheqroom.types.item.computers.laptops",
+            "name": "Laptops",
+        },
+        "qrcode_text": "5dc60410",
+        "qrcode_url": "https://app.cheqroom.com/api/latest/qrcode?code=5dc60410",
+        "barcode_text": "1234567890",
+        "barcode_url": "https://app.cheqroom.com/api/latest/barcode?code=1234567890",
+        "status": "available"
+    },
+    "id": "BWzzvKvcc7W5fq6f3SpStD",
+    "kind": "item",
+    "name": "When an item get created by duplicating another item",
+    "time": 1504772899,
+    "topic": "item.duplicate"
+}
