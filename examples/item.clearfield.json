@@ -7,16 +7,7 @@
         "fields": {
             "Color": "Silver"
         },
-        "custody": {
-            "_id": "Win3YH63EyaZouR7YPmVHQ",
-            "name": "Frank Drebin",
-            "company": "Police Squad",
-            "phone": "842-992-897",
-            "email": "frank@policesquad.gov",
-            "fields": {
-                "Rank": "Lieutenant"
-            }
-        },
+        "flag": "",
         "location": {
             "_id": "Phu7AWtch4wUSUEqWpyGBV",
             "name": "New York HQ"
@@ -25,16 +16,15 @@
             "_id": "cheqroom.types.item.computers.laptops",
             "name": "Laptops",
         },
-        "barcode_or_qrcode": "5dc60410",
         "qrcode_text": "5dc60410",
         "qrcode_url": "https://app.cheqroom.com/api/latest/qrcode?code=5dc60410",
         "barcode_text": "1234567890",
         "barcode_url": "https://app.cheqroom.com/api/latest/barcode?code=1234567890",
-        "status": "in_custody"
+        "status": "available"
     },
     "id": "BWzzvKvcc7W5fq6f3SpStD",
     "kind": "item",
-    "name": "When someone takes custody of an item",
+    "name": "When a custom field on an item gets cleared",
     "time": 1504772899,
-    "topic": "item.takecustody"
+    "topic": "item.clearfield"
 }

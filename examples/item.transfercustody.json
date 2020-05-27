@@ -21,6 +21,10 @@
             "_id": "Phu7AWtch4wUSUEqWpyGBV",
             "name": "New York HQ"
         },
+        "category": {
+            "_id": "cheqroom.types.item.computers.laptops",
+            "name": "Laptops",
+        },
         "barcode_or_qrcode": "5dc60410",
         "qrcode_text": "5dc60410",
         "qrcode_url": "https://app.cheqroom.com/api/latest/qrcode?code=5dc60410",
